@@ -1,0 +1,3 @@
+/home/oica/dev/data-compression/huffman/build/CMakeFiles/huffman.dir
+/home/oica/dev/data-compression/huffman/build/CMakeFiles/edit_cache.dir
+/home/oica/dev/data-compression/huffman/build/CMakeFiles/rebuild_cache.dir

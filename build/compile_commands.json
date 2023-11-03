@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/oica/dev/data-compression/huffman/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/huffman.dir/Source/Main.cpp.o -c /home/oica/dev/data-compression/huffman/Source/Main.cpp",
+  "file": "/home/oica/dev/data-compression/huffman/Source/Main.cpp"
+},
+{
+  "directory": "/home/oica/dev/data-compression/huffman/build",
+  "command": "/usr/bin/g++   -g -std=gnu++11 -o CMakeFiles/huffman.dir/Source/Huffman.cpp.o -c /home/oica/dev/data-compression/huffman/Source/Huffman.cpp",
+  "file": "/home/oica/dev/data-compression/huffman/Source/Huffman.cpp"
+}
+]
